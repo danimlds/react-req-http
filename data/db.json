@@ -34,6 +34,76 @@
       "name": "Cadeira",
       "price": "100.0",
       "id": 7
+    },
+    {
+      "name": "Carro",
+      "price": "100000.00",
+      "id": 8
+    },
+    {
+      "name": "Mouse",
+      "price": "100",
+      "id": 9
+    },
+    {
+      "name": "PC",
+      "price": "1000.00",
+      "id": 10
+    },
+    {
+      "name": "PC",
+      "price": "1000.00",
+      "id": 11
+    },
+    {
+      "name": "Headset",
+      "price": "650.0",
+      "id": 12
+    },
+    {
+      "name": "Mouse",
+      "price": "100.00",
+      "id": 13
+    },
+    {
+      "name": "Mouse",
+      "price": "100.00",
+      "id": 14
+    },
+    {
+      "name": "Controle",
+      "price": "10.0",
+      "id": 15
+    },
+    {
+      "name": "Controle",
+      "price": "10.0",
+      "id": 16
+    },
+    {
+      "name": "Controle",
+      "price": "10.0",
+      "id": 17
+    },
+    {
+      "name": "Copo",
+      "price": "3.0",
+      "id": 18
+    },
+    {
+      "name": "Notebook",
+      "price": "1500.00",
+      "id": 19
+    },
+    {
+      "name": "Notebook",
+      "price": "1500.00",
+      "id": 20
+    },
+    {
+      "name": "pen drive",
+      "price": "10.00",
+      "id": 21
     }
   ]
 }
